@@ -1,0 +1,8 @@
+name: EurWin
+version: '${version}'
+main: moe.xmcn.spcraft.eurwin.EurWin
+load: STARTUP
+authors: [SPCraftMC]
+description: A plugin that connect EnShii-Daemon
+website: https://spcraft.1l1.icu
+folia-support: true
